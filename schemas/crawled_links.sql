@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS crawled_links (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    url TEXT
+)
